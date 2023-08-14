@@ -1,5 +1,0 @@
-{{#user}
-Name: Hritik Mishra
-Skills: HTML, CSS, JS, React.js
-Email: hritikmishra3332@gmail.com
-{{/user}}
